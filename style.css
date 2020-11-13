@@ -3,6 +3,11 @@ body {
     background-size: cover;
 }
 
+#brand {
+    font-family: 'Faster One', cursive;
+    font-size: 28px;
+}
+
 
 .contact {
     background: rgba(0, 0, 0, .6);

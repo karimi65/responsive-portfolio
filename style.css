@@ -24,15 +24,22 @@ a:hover {
                  /* for contact page */
 
 #connect {
-background-image: url();
+background-image: url(assets/Images/bgcnt.jpg);
 background-size: cover; 
-                }
+}
 
 .contact {
     background: rgba(0, 0, 0, .6);
     color: white;
     margin-top: 100px;
     padding: 20px;
+}
+
+
+@media screen and (max-width:460px) {
+    #pic{
+        display: none;
+    }
 }
 
                    /* for About page */

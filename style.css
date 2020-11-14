@@ -1,8 +1,5 @@
 
-#connect {
-    background-image: url();
-    background-size: cover; 
-}
+
 
 h2, h3 {
     font-family: Georgia, 'Times New Roman', Times, serif;
@@ -25,6 +22,11 @@ a:hover {
 }
 
                  /* for contact page */
+
+#connect {
+background-image: url();
+background-size: cover; 
+                }
 
 .contact {
     background: rgba(0, 0, 0, .6);
@@ -57,3 +59,17 @@ footer {
     margin-top: 15px;
 }
 
+                  /* for Portfolio */
+
+#my-works {
+    background-image: url(assets/Images/bgprt.jpg);
+background-size: cover; 
+}
+
+#www {
+    opacity: 0.7;
+}
+
+.card {
+    opacity: 0.7;
+}

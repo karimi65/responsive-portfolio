@@ -1,24 +1,19 @@
-body {
+
+#connect {
     background-image: url();
-    background-size: cover;
+    background-size: cover; 
 }
+
+h2, h3 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+                 /* styles for navbar */
 
 #brand {
     font-family: 'Faster One', cursive;
     font-size: 28px;
-}
-
-
-.contact {
-    background: rgba(0, 0, 0, .6);
-    color: white;
-    margin-top: 100px;
-    padding: 20px;
-}
-
-footer {
-   position: fixed;
-   bottom: 0;
 }
 
 a:hover {
@@ -27,5 +22,38 @@ a:hover {
 .active {
     font-weight: bold;
     background-color: rgba(0, 0, 0, .1);
+}
+
+                 /* for contact page */
+
+.contact {
+    background: rgba(0, 0, 0, .6);
+    color: white;
+    margin-top: 100px;
+    padding: 20px;
+}
+
+                   /* for About page */
+
+#about {
+background-image: url(assets/Images/bgab.jpg);
+background-size: cover;
+}
+
+footer {
+   position: fixed;
+   bottom: 0;
+}
+
+#name {
+    font-weight: bold;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, sans-serif;
+    font-size: 18px;
+}
+
+#me {
+    border-radius: 300px;
+    margin-top: 15px;
 }
 

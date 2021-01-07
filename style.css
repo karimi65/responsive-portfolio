@@ -79,4 +79,10 @@ background-size: cover;
 
 .card {
     opacity: 0.8;
+    box-shadow: 0 0 10px 2px;
+}
+
+#projects {
+    background-color: #f6f3e4;
+   
 }

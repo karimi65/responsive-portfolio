@@ -1,6 +1,6 @@
 # responsive-portfolio
 
-[Responsive Portfolio](https://karimi65.github.io/responsive-portfolio/)
+[Link to webpage](https://karimi65.github.io/responsive-portfolio/)
 
 ## There are 3 HTML files for this homework : 
 * index.html (About/Home)
